@@ -1,5 +1,5 @@
 - 👋 Hello there!
-- 👨 My name is Dennis, and I am a trainee JavasScript Developer.
+- 👨 My name is Dennis Tockan, and I am a trainee JavasScript Developer.
 
 
 - 👀 I’m interested in all things code, financial markets and fitness.
